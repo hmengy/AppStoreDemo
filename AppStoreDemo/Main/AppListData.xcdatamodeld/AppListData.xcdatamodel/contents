@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17709" systemVersion="19H2" minimumToolsVersion="Automatic" sourceLanguage="Objective-C" userDefinedModelVersionIdentifier="">
+    <entity name="ApplicationDataModel" representedClassName="ApplicationDataModel" isAbstract="YES" syncable="YES">
+        <attribute name="appDesc" optional="YES" attributeType="String"/>
+        <attribute name="appDeveloper" optional="YES" attributeType="String"/>
+        <attribute name="appIcon" optional="YES" attributeType="String"/>
+        <attribute name="appID" optional="YES" attributeType="String"/>
+        <attribute name="appIndex" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="appName" optional="YES" attributeType="String"/>
+        <attribute name="appScore" optional="YES" attributeType="String"/>
+        <attribute name="appType" optional="YES" attributeType="String"/>
+        <attribute name="appUserCount" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="ApplicationDataModel" positionX="-36" positionY="36" width="128" height="178"/>
+    </elements>
+</model>
